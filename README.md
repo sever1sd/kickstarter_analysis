@@ -43,11 +43,29 @@ There were no readily apparent challenges in scrubbing and analyzing these data.
 3. Organizing raw data into readily consumable frameworks
 
 ## Results
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+ After reviewing the data, there are a number of conclusions to be drawn:
+ 
+ **Outcomes Based on Launch Date:**
+ 1. Theatrical crowdfunding campaigns tend to do better in early summer months (May-June)
+ 2. Success rates taper off throughout the summer and into the fall
+ 3. The worst month for theatrical crowdfunding campaigns is December
+ 4. Cancelations seem largely unimpacted by time of year
+ 5. There is a brief spike in failed campaigns in the month of October
+ 
+ **Outcomes Based on Goals:**
+ 1. Campaigns with lower goals tend to do better than campaigns with higher goals
+ 2. There is a brief spike in success rates for goals between $35,000 and $45,000, but due to sample size for this goal bucket, this could be noise
+ 
 
-- What can you conclude about the Outcomes based on Goals?
+**Limitations of this data:**
+1. This analysis does not consider country of origin, which could play a part in the success of a crowdfunded campaign
+2. This data does not include contributor demographics, which could impact the success of a crownfunded campaign\
+3. This data does not include the location where these plays and theatrical releases took place, population density of location could impact success rates
 
-- What are some limitations of this dataset?
+**Additional potential analysis:**
+1. The duration of a crowdfunded campaign and its relationship to success
+2. The correlation between the goal size and local population density of theatrical release
 
-- What are some other possible tables and/or graphs that we could create?
-
+**Additional potential charts:**
+1. Bar graphs charting the totals for Outcomes Based on Goals to compare the number of campaigns for each goal bucket
+2. Histograms of "Success," "Failure," and "Canceled" categories for Outcomes Based on Goals to determine sample distribution and density of each category
