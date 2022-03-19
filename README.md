@@ -5,6 +5,7 @@
 ### Purpose
 The purpose of this analysis is to determine how different crowdfunding campaigns performed in relation to their funding goals and launch dates. 
 
+The client had previously found success in the use of data analytics to predict the success of their crowdfunding campaign. In order to further capitalize on that success, the client has requested additional analyses that dig deeper into the impact of campaign launch dates and funding goals. Additionally, they requested this analysis be focused specific to both "theater" and "plays" crowdfunding campaigns.
 
 ## Analysis and Challenges
 
@@ -20,7 +21,12 @@ There were no readily apparent challenges in scrubbing and analyzing these data.
 
 A link to the original analysis can be found and downloading locally [here](https://github.com/sever1sd/kickstarter_analysis/blob/main/Kickstarter_Challenge.xlsx).
 
-### Analysis of Ouctcomes Based on Launch Date
+### Analysis of Outcomes Based on Launch Date
+
+
+
+![alt text](https://github.com/sever1sd/kickstarter_analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+
 
 ### Analysis of Outcomes Based on Goals
 
