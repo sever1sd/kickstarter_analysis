@@ -62,6 +62,8 @@ There were no readily apparent challenges in scrubbing and analyzing these data.
 2. This data does not include contributor demographics, which could impact the success of a crownfunded campaign\
 3. This data does not include the location where these plays and theatrical releases took place, population density of location could impact success rates
 
+In order to further determine any impacts of campaign success based on Goals or Launch date, it is recommended that additional analysis be conducted as well as additional charts be created: 
+
 **Additional potential analysis:**
 1. The duration of a crowdfunded campaign and its relationship to success
 2. The correlation between the goal size and local population density of theatrical release
