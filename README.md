@@ -11,13 +11,13 @@ The client had previously found success in the use of data analytics to predict 
 
 The analysis was conducted through Excel. Source data were provided by the client and were organized by campaign name, description, success rate, and various other components related to the dataset. 
 
-The analysis was primarily conducted through the use of stock functions available in Microsoft Products that assisting in sorting and filtering out unneeded raw data, identifiying outliers, and reframing the data to better visualize patterns or trends. Visualization of the data to determine the presence of trends or patterns was conducted through the use of pivot tables and pivot charts.
+The analysis was primarily conducted through the use of stock functions available in Microsoft Products that assisted in sorting and filtering out unneeded raw data, identifiying outliers, and reframing the data to better visualize patterns or trends. Visualization of the data to determine the presence of trends or patterns was conducted through the use of pivot tables and pivot charts.
 
 A link to the original analysis can be found and downloaded locally [here](https://github.com/sever1sd/kickstarter_analysis/blob/main/Kickstarter_Challenge.xlsx).
 
 ### Analysis of Outcomes Based on Launch Date
 
-
+Analysis of crowdfunding campaign outcomes was conducted on any campaign that was tied specific to theatrical enterprises. The target category was isolated by converting data to a pivot table and filtering out any unrelated "Parent Category" in the dataset. Data was then  
 
 ![alt text](https://github.com/sever1sd/kickstarter_analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
