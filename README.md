@@ -17,12 +17,22 @@ A link to the original analysis can be found and downloaded locally [here](https
 
 ### Analysis of Outcomes Based on Launch Date
 
-Analysis of crowdfunding campaign outcomes was conducted on any campaign that was tied specific to theatrical enterprises. The target category was isolated by converting data to a pivot table and filtering out any unrelated "Parent Category" in the dataset. Data was then  
+The analysis of crowdfunding campaign outcomes based on launch date was conducted on any campaign that was tied to theatrical enterprises. The target category was isolated by converting data to a pivot table and filtering out any unrelated "Parent Category" in the dataset. Data was then sorted by "Month" and outcomes of the campaigns. This analysis includes all data from 2010 - 2017. The resulting chart was then converted to a line-chart in order to evaluate any potential trends in outcomes. This analysis can be found in the previously provided file under the "Theater Outcomes by Launch Date" tab.
+
+**Created chart:**
 
 ![alt text](https://github.com/sever1sd/kickstarter_analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
+
+The analysis of crowdfunding campaign outcomes based on campaign goals was conducted on any campaign that was specific to theatrical plays. The target subcategory was isolated by creating a separate table (which can also be found in the previously provided file under the tab "Outcomes Based on Goals") that aggregated outcomes based on "buckets" of goal categories. Success, Failure, and Cancel rates were then calculated as a percentage of the total for each bucket category. A line chart was then created to evaluate any possible trends in the data.
+
+**Created Table:**
+![image](https://user-images.githubusercontent.com/98677283/159126217-8834d27d-49e7-46ac-942d-c5cdae71fb03.png)
+
+**Created Chart:**
+![alt text](https://github.com/sever1sd/kickstarter_analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
@@ -31,7 +41,7 @@ There were no readily apparent challenges in scrubbing and analyzing these data.
 1. Sourcing raw data from reliable locations
 2. Scrubbing raw data for gaps or missing information
 3. Organizing raw data into readily consumable frameworks
-4. 
+
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
