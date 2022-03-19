@@ -13,12 +13,6 @@ The analysis was conducted through Excel. Source data were provided by the clien
 
 The analysis was primarily conducted through the use of stock functions available in Microsoft Products that assisting in sorting and filtering out unneeded raw data, identifiying outliers, and reframing the data to better visualize patterns or trends. Visualization of the data to determine the presence of trends or patterns was conducted through the use of pivot tables and pivot charts.
 
-There were no readily apparent challenges in scrubbing and analyzing these data. Because the dataset was provided by the client, there were also no challenges in sourcing these data. If this were not the case, some challenge that could have occurred would been
-
-1. Sourcing raw data from reliable locations
-2. Scrubbing raw data for gaps or missing information
-3. Organizing raw data into readily consumable frameworks
-
 A link to the original analysis can be found and downloading locally [here](https://github.com/sever1sd/kickstarter_analysis/blob/main/Kickstarter_Challenge.xlsx).
 
 ### Analysis of Outcomes Based on Launch Date
@@ -32,6 +26,12 @@ A link to the original analysis can be found and downloading locally [here](http
 
 ### Challenges and Difficulties Encountered
 
+There were no readily apparent challenges in scrubbing and analyzing these data. Because the dataset was provided by the client, there were also no challenges in sourcing these data. If this were not the case, some challenge that could have occurred would been
+
+1. Sourcing raw data from reliable locations
+2. Scrubbing raw data for gaps or missing information
+3. Organizing raw data into readily consumable frameworks
+4. 
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
