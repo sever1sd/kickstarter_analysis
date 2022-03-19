@@ -13,7 +13,7 @@ The analysis was conducted through Excel. Source data were provided by the clien
 
 The analysis was primarily conducted through the use of stock functions available in Microsoft Products that assisting in sorting and filtering out unneeded raw data, identifiying outliers, and reframing the data to better visualize patterns or trends. Visualization of the data to determine the presence of trends or patterns was conducted through the use of pivot tables and pivot charts.
 
-A link to the original analysis can be found and downloading locally [here](https://github.com/sever1sd/kickstarter_analysis/blob/main/Kickstarter_Challenge.xlsx).
+A link to the original analysis can be found and downloaded locally [here](https://github.com/sever1sd/kickstarter_analysis/blob/main/Kickstarter_Challenge.xlsx).
 
 ### Analysis of Outcomes Based on Launch Date
 
